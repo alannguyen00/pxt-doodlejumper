@@ -1,7 +1,9 @@
 {
     "name": "doodlejumper",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*",
+        "color-coded-tilemap": "*"
     },
     "description": "",
     "files": [
